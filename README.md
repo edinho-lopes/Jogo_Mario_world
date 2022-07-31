@@ -1,6 +1,6 @@
-JOGO MARIO WORD
-<p>Criando o Jogo Mario world; nesse projeto estou usando html, css e JS. 
-  estou criando pequenos projetos para fixar bem o conteúdo e poder fazer projetos maiores;</p>
+JOGO MARIO WORD JUMP
+<p>Nesse projeto fiz um jogo onde o Mario tem que pular o cano verde, pois se encostar 
+no cano, fim de JOGO</p>
   
   <p>Link do Jogo  👇</p>
   <a href="https://edinho-lopes.github.io/Jogo_Mario_world/">MARIO WORLD</a>
