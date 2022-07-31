@@ -1,5 +1,5 @@
 JOGO MARIO WORD JUMP
-<p>Nesse projeto fiz um jogo onde o Mario tem que pular o cano verde, pois se encostar 
+<p>Nesse projeto fiz um jogo onde o Mario tem que pular o cano verde, clique em qulquer tecla para que ele pule, pois se encostar 
 no cano, fim de JOGO</p>
   
   <p>Link do Jogo  👇</p>
